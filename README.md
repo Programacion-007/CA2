@@ -13,4 +13,4 @@ Propósito
   3. Uso switch
 
 http://github.com - code!
-[GitHub](https://github.com/Programacion-II/CA2)
+[CA2](https://github.com/Programacion-II/CA2)
