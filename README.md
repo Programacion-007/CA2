@@ -12,11 +12,12 @@ Propósito
     - `&&, ||, !` 
     - `==, >=, <=`
   - Uso ciclos
-    ```javascript
-    if (isAwesome){
-      return true
-    }
-    ```
+```javascript
+if (isAwesome)
+{
+  return true
+}
+```
   3. Uso switch
 
 http://github.com - CA2
