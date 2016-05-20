@@ -1,3 +1,5 @@
+![Octocat Logo](https://civicio.files.wordpress.com/2013/03/github.png?w=256&h=256)
+
 # CA2
 
 ## Programación 2
