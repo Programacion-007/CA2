@@ -1,5 +1,5 @@
-![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
-Format: ![Alt Text](url)
+![Image of Yaktocat](https://octodex.github.com/labtocat)
+
 # CA2
 
 ## Programación 2
