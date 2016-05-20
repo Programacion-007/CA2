@@ -57,4 +57,5 @@ davian-007/CA2 | 27825ae5d13a4c8a15f705930461fd0eef77fb81
 
 Github - Code
 [CA2](https://github.com/Programacion-II/CA2)
-@davian-007 :thumbsup
+
+@davian-007 :thumbsup:
