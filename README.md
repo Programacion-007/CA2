@@ -1,4 +1,4 @@
-![Image of Yaktocat](https://octodex.github.com/labtocat)
+![Image of Yaktocat](https://octodex.github.com/images/labtocat.png)
 
 # CA2
 
