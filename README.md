@@ -12,10 +12,10 @@ Propósito
     - `&&, ||, !` 
     - `==, >=, <=`
   - Uso ciclos
-```javascript
-if (isAwesome)
+```C#
+do (x>1)
 {
-  return true
+  //sentencias
 }
 ```
   3. Uso switch
