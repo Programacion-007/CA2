@@ -8,4 +8,6 @@
 --También se puede utilizar README.txt
 
 Propósito
-Ejemplo de uso de comandos básicos en C# en modo consola con Visual Studio
+  1. Uso de operadores lógicos y comparación
+  2. Uso ciclos
+  3. Uso switch
