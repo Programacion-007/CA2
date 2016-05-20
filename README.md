@@ -11,7 +11,11 @@ Propósito
   - Uso de operadores lógicos y comparación
     - `&&, ||, !` 
     - `==, >=, <=`
-  2. Uso ciclos
+  - Uso ciclos
+    `while (x>1)
+    {
+      //sentencias
+    }`
   3. Uso switch
 
 http://github.com - CA2
