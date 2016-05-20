@@ -2,10 +2,8 @@
 
 ## Programación 2
 *Jorge Davián Aguilar Oviedo*
-
 **Ejercicio 02**
-
->También se puede utilizar README.txt
+>Se puede utilizar README.txt
 
 ## Propósito
 Ejemplo de los siguientes temas
