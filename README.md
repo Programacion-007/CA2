@@ -2,6 +2,7 @@
 
 ## Programación 2
 *Jorge Davián Aguilar Oviedo*
+
 **Ejercicio 02**
 >Se puede utilizar README.txt
 
