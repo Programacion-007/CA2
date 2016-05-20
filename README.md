@@ -12,5 +12,5 @@ Propósito
   2. Uso ciclos
   3. Uso switch
 
-http://github.com - code!
+http://github.com - CA2
 [CA2](https://github.com/Programacion-II/CA2)
