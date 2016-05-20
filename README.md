@@ -14,6 +14,9 @@ if (x>1 && y<2)
 {
   //sentencias
 }
+```
+- **Operadores comparación**
+```C#
 if (x >= y)
 {
   //sentencias
