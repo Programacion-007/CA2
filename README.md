@@ -51,9 +51,9 @@ switch (i)
 ```
 - [ ] Realizar Tarea 02
 
-First Header | Second Header
+Enlace repositorio | Enlace de commit
 ------------ | -------------
-Content from cell 1 | Content from cell 2
+davian-007/CA2 | 16c999e8c71134401a78d4d46435517b2271d6ac
 
 Github - Code
 [CA2](https://github.com/Programacion-II/CA2)
