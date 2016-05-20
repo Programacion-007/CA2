@@ -12,5 +12,5 @@ Propósito
   2. Uso ciclos
   3. Uso switch
 
-http://github.com - automatic!
-[GitHub](http://github.com)
+http://github.com - code!
+[GitHub](https://github.com/Programacion-II/CA2)
