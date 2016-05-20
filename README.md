@@ -10,7 +10,8 @@
 >También se puede utilizar README.txt
 
 Propósito
-  1. Uso de operadores lógicos y comparación
+  - Uso de operadores lógicos y comparación
+    - `x >= 1` 
   2. Uso ciclos
   3. Uso switch
 
