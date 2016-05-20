@@ -14,10 +14,12 @@ if (x>1 && y<2)
 {
   //sentencias
 }
+if (x >= y)
+{
+  //sentencias
+}
 ```
-`||, !` 
-    - `==, >=, <=`
-- Ciclos
+- **Ciclos**
 ```C#
 while (x>1)
 {
@@ -28,7 +30,7 @@ do
   //sentencias
 } while (x>1)
 ```
-- Switch
+- **Switch**
 ```C#
 switch (i)
 {
