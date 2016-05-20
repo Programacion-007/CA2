@@ -1,5 +1,3 @@
-![Image of Yaktocat](https://octodex.github.com/images/labtocat.png)
-
 # CA2
 
 ## Programación 2
@@ -11,7 +9,8 @@
 
 Propósito
   - Uso de operadores lógicos y comparación
-    - `x >= 1` 
+    - `&&, ||, !` 
+    - `==, >=, <=`
   2. Uso ciclos
   3. Uso switch
 
