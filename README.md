@@ -48,7 +48,7 @@ switch (i)
     break;
 }
 ```
-- [x] Realizar Tarea 02
+- [ ] Realizar Tarea 02
 
 Github - Code
 [CA2](https://github.com/Programacion-II/CA2)
