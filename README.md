@@ -1,5 +1,5 @@
 # CA2
-# CA1
+
 Programación 2
 Jorge Davián Aguilar Oviedo
 Ejercicio 02
