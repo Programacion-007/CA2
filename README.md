@@ -7,18 +7,40 @@
 
 >También se puede utilizar README.txt
 
-Propósito
-  - Uso de operadores lógicos y comparación
-    - `&&, ||, !` 
-    - `==, >=, <=`
-  - Uso ciclos
+## Propósito
+Ejemplo de los siguientes temas
+- **Operadores lógicos**
 ```C#
-do (x>1)
+if (x>1 && y<2)
 {
   //sentencias
 }
 ```
-  3. Uso switch
-
+`||, !` 
+    - `==, >=, <=`
+- Ciclos
+```C#
+while (x>1)
+{
+  //sentencias
+}
+do 
+{
+  //sentencias
+} while (x>1)
+```
+- Switch
+```C#
+switch (i)
+{
+  case 1:
+    //sentencias
+    break;
+  case 2:
+  //sentencias
+    break;
+  default:
+}
+```
 http://github.com - CA2
 [CA2](https://github.com/Programacion-II/CA2)
