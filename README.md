@@ -37,9 +37,11 @@ switch (i)
     //sentencias
     break;
   case 2:
-  //sentencias
+    //sentencias
     break;
   default:
+    //sentencias
+    break;
 }
 ```
 http://github.com - CA2
