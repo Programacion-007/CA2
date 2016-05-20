@@ -5,9 +5,12 @@
 
 **Ejercicio 02**
 
---También se puede utilizar README.txt
+>También se puede utilizar README.txt
 
 Propósito
   1. Uso de operadores lógicos y comparación
   2. Uso ciclos
   3. Uso switch
+
+http://github.com - automatic!
+[GitHub](http://github.com)
