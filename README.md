@@ -1,6 +1,4 @@
-![Octocat Logo](https://civicio.files.wordpress.com/2013/03/github.png?w=256&h=256)
-
-# CA2
+![Octocat Logo](http://2.bp.blogspot.com/-z9YlNMIX5NE/Vdj07d3qPGI/AAAAAAAAAls/N8LFN6pPze0/s1600/github_128.png)# CA2
 
 ## Programación 2
 *Jorge Davián Aguilar Oviedo*
