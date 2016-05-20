@@ -44,5 +44,5 @@ switch (i)
     break;
 }
 ```
-http://github.com - CA2
+Github - Code
 [CA2](https://github.com/Programacion-II/CA2)
